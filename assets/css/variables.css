@@ -1,0 +1,7 @@
+:root { /*root serve pra criar variavel global*/
+    --primary-color: #0A1128;
+    --white-color: #ffffff;
+    --light-gray-color: #eeeeee;
+    --secondary-color: #DCDCDC;
+    --gap: 3rem;
+}
